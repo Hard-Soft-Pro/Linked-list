@@ -1,2 +1,2 @@
 # Linked-list
-A small assignment about linkred list.
+A small assignment about linked list.
